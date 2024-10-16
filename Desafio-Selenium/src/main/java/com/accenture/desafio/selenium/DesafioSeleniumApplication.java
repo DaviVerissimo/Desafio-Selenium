@@ -1,4 +1,4 @@
-package com.Desafio_Selenium.Desafio_Selenium;
+package com.accenture.desafio.selenium;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

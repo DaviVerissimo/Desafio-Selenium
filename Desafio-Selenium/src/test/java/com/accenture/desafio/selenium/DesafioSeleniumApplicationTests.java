@@ -1,4 +1,4 @@
-package com.Desafio_Selenium.Desafio_Selenium;
+package com.accenture.desafio.selenium;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
