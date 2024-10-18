@@ -10,7 +10,7 @@ public class VehicleDataPage {
 
     private final String MAKE_VALUE = "BMW";
     private final String ENGINE_PERFORMANCE_VALUE = "10";
-    private final String DATE_OF_MANUFACTURE_VALUE = "10/01/2024";
+    private final String DATE_OF_MANUFACTURE_VALUE = "01/01/2024";
     private final String NUMBER_OF_SEATS_VALUE = "3";
     private final String LIST_PRICE_VALUE = "500";
     private final String LICENSE_PLATE_NUMBER_VALUE = "1";
